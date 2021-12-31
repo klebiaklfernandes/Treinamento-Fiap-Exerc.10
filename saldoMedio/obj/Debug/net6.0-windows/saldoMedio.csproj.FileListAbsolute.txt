@@ -1,0 +1,17 @@
+C:\AulaFiap\saldoMedio\saldoMedio\bin\Debug\net6.0-windows\saldoMedio.exe
+C:\AulaFiap\saldoMedio\saldoMedio\bin\Debug\net6.0-windows\saldoMedio.deps.json
+C:\AulaFiap\saldoMedio\saldoMedio\bin\Debug\net6.0-windows\saldoMedio.runtimeconfig.json
+C:\AulaFiap\saldoMedio\saldoMedio\bin\Debug\net6.0-windows\saldoMedio.dll
+C:\AulaFiap\saldoMedio\saldoMedio\bin\Debug\net6.0-windows\ref\saldoMedio.dll
+C:\AulaFiap\saldoMedio\saldoMedio\bin\Debug\net6.0-windows\saldoMedio.pdb
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.csproj.AssemblyReference.cache
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.Form1.resources
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.csproj.GenerateResource.cache
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.AssemblyInfoInputs.cache
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.AssemblyInfo.cs
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.csproj.CoreCompileInputs.cache
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.dll
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\ref\saldoMedio.dll
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.pdb
+C:\AulaFiap\saldoMedio\saldoMedio\obj\Debug\net6.0-windows\saldoMedio.genruntimeconfig.cache
